@@ -1,0 +1,18 @@
+{
+  "model_name": "lasso",
+  "training_results": {
+    "model_name": "lasso",
+    "model": "Lasso(random_state=42)",
+    "best_params": {},
+    "train_mse": 2901.216098848626,
+    "test_mse": 2824.568094049959,
+    "train_mae": 43.83914582663473,
+    "test_mae": 42.80298373195777,
+    "train_r2": 0.5225434389503393,
+    "test_r2": 0.46687670944102466,
+    "cv_mse": 3130.847770159315,
+    "cv_std": 278.3437471209074,
+    "training_time": "2025-08-04T18:42:34.599458"
+  },
+  "saved_at": "2025-08-04T18:42:44.845037"
+}
